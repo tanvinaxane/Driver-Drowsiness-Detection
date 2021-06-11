@@ -14,8 +14,11 @@ Website Link:- https://gcpdeployddproject.el.r.appspot.com/
 Dataset Link:- https://www.kaggle.com/timmjy/fatigue-detection
 
 Technologies Used:-
+
 Frontend: HTML/CSS, Bootstrap.
+
 Backend: Google Collab and PyCharm
+
 Deployment: Flask, Google Cloud Platform(GCP)
 
 
