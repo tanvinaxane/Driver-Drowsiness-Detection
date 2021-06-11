@@ -10,6 +10,7 @@ The purpose of this project paper is to devise a way to alert drowsy drivers in 
 # Project Info.
 
 Website Link:- https://gcpdeployddproject.el.r.appspot.com/
+
 Dataset Link:- https://www.kaggle.com/timmjy/fatigue-detection
 
 Technologies Used:-
@@ -43,7 +44,9 @@ Taking Medication: Many drugs have a reducing reaction, like calming the nervous
 In order to monitor the state of drowsiness of the driver, following measures have been used widely:-
 
 1. Vehicle-based Measures — A number of metrics, including deviations from lane position, movement of the steering wheel, pressure on the acceleration pedal, etc. are constantly monitored and any change or deflection is found in these measures that crosses a specified threshold indicates a significantly increased probability that the driver is drowsy.
+
 2. Behavioral Measures — The behaviour of the driver, including yawning, eye closure, eye blinking, head position, etc. is monitored through the camera and the driver is alerted if any of these drowsiness symptoms are detected.
+
 3. Physiological Measures — The correlation between physiological signals (Electrocardiogram (ECG), Electromyogram (EMG), Electrooculogram (EoG) and Electroencephalogram (EEG)) and driver drowsiness has been studied by many researchers over the years and have found that these measures are extremely dependable and accurate in detecting driver's drowsiness.
 
 # Screenshots of our project:-
